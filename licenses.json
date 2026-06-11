@@ -1,1 +1,11 @@
-
+{
+  "issued_at": "2026-06-11T17:43:40Z",
+  "licenses": [
+    {
+      "key": "XEBIO-NZ6X-2VBV-WLWN-87XG",
+      "machine_id": "c0620b8e4bfced9b29fefb2cf2ce0d8e",
+      "label": "vps2"
+    }
+  ],
+  "signature": "x3yY3VJa1TRILSF1JEJYzBA5Niw5LMrrkvOvYLoPBWURfufe8DCDjs8SekHkt6+A2Vd4YV4tAFV36um2rdSuDQ=="
+}
