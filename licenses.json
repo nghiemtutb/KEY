@@ -8,4 +8,15 @@
     }
   ],
   "signature": "x3yY3VJa1TRILSF1JEJYzBA5Niw5LMrrkvOvYLoPBWURfufe8DCDjs8SekHkt6+A2Vd4YV4tAFV36um2rdSuDQ=="
+},
+{
+  "issued_at": "2026-06-11T16:45:42Z",
+  "licenses": [
+    {
+      "key": "XEBIO-L4FP-AW9F-72RS-EES2",
+      "machine_id": "6527be03c1ffd610f8eba3b4ad9acbd7",
+      "label": "may-cua-tu"
+    }
+  ],
+  "signature": "UcWitoRxPOabaD8hCptaMTZEwoXsYLvC0WkjXx1m6mPQBB0JGOGSgiGyijrV8gbWHRDCcE+4VqmltPFwf3tmDA=="
 }
