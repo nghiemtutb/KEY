@@ -1,16 +1,16 @@
 {
-  "issued_at": "2026-06-11T18:44:32Z",
+  "issued_at": "2026-06-11T18:49:24Z",
   "licenses": [
     {
       "key": "XEBIO-7F38-T9LH-HGUR-UHJA",
       "machine_id": "c0620b8e4bfced9b29fefb2cf2ce0d8e",
       "label": "vps2"
+    },
+    {
+      "key": "XEBIO-CTMR-68J2-HZEL-TKJT",
+      "machine_id": "6527be03c1ffd610f8eba3b4ad9acbd7",
+      "label": "local-RB16"
     }
   ],
-    {
-    "key": "XEBIO-CTMR-68J2-HZEL-TKJT",
-    "machine_id": "6527be03c1ffd610f8eba3b4ad9acbd7",
-    "label": "local-RB16"
-  }
-  "signature": "/OiBcBy8OjMkysbiX8QD+Lu0RNMVVGEm2ca+E6Sgico1peK4ReljGEI7WYR1qdOiQHNqcpjWAIMrW7Y9WOHjCA=="
+  "signature": "aAXpboL53BsTSE50oGbtJftYCxm+BS6KN4Lj5h2zkeilkGgUNFC9FM3aXPIpjEtEUbTYZ8N8gtHYFPOvoDi4Dw=="
 }
