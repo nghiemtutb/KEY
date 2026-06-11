@@ -1,11 +1,16 @@
 {
-  "issued_at": "2026-06-11T18:28:20Z",
+  "issued_at": "2026-06-11T18:39:57Z",
   "licenses": [
     {
       "key": "XEBIO-HNS2-3FEQ-8RBE-5G49",
       "machine_id": "c0620b8e4bfced9b29fefb2cf2ce0d8e",
       "label": "vps2"
+    },
+    {
+      "key": "XEBIO-8SWK-ZBCN-6ETK-3QSC",
+      "machine_id": "c0620b8e4bfced9b29fefb2cf2ce0d8e",
+      "label": "oioo2"
     }
   ],
-  "signature": "AraJFMu+IVybw/mU3NJlKlhiiM1ZZDQx81RjT9evAJBsGGKW6S7W303XdYLn66uPT0f6iBGqBRvs2DgydtGfOw=="
+  "signature": "lE0oA8yk6L96h1VBx6m6rhmJrWD/hK+h3KMpMiB0rQHJkV1XFv21M8b7+QbS7ZMU50hdlvq+n8CT+95GFOyQBw=="
 }
