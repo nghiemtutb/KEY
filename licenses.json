@@ -7,5 +7,10 @@
       "label": "vps2"
     }
   ],
+    {
+    "key": "XEBIO-CTMR-68J2-HZEL-TKJT",
+    "machine_id": "6527be03c1ffd610f8eba3b4ad9acbd7",
+    "label": "local-RB16"
+  }
   "signature": "/OiBcBy8OjMkysbiX8QD+Lu0RNMVVGEm2ca+E6Sgico1peK4ReljGEI7WYR1qdOiQHNqcpjWAIMrW7Y9WOHjCA=="
 }
